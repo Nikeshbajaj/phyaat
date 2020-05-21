@@ -5,11 +5,11 @@
 ### **[PyPi - project](https://pypi.org/project/phyaat/)**
 
 <p align="center">
-  <img src="https://phyaat.github.io/_images0/ExperimentModel.png" width="500"/>
+  <img src="https://phyaat.github.io/assets/images/ExperimentModel.png" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://phyaat.github.io/_images0/EEGViz_Raw1.gif" width="500"/>
+  <img src="https://phyaat.github.io/assets/images/EEGViz_Raw1.gif" width="500"/>
 </p>
 
 
