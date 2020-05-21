@@ -1,0 +1,17 @@
+include *.md
+include *.rst
+include LICENSE
+include Version
+include requirements.txt
+include phyaat/__init__.py
+
+recursive-include phyaat *.py
+recursive-include phyaat *.txt
+recursive-include examples *.py
+recursive-include examples *.ipynb
+recursive-include *.ipynb
+
+
+### Exclude
+recursive-exclude * __pycache__
+recursive-exclude *.yml
