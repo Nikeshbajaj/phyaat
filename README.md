@@ -31,6 +31,7 @@
 -----
 ## Table of contents
 - [**Installation**](#installation)
+- [**Getting Started**](#getting-started)
 - [**Examples with Notebooks**](#examples)
 -----
 
@@ -61,11 +62,13 @@ Download the repository or clone it with git, after cd in directory build it fro
 python setup.py install
 ```
 
+## Getting Started
+
+For starting check here - **[Getting Started](https://phyaat.github.io/introduction.html)**
 
 
 
-
-## Contents will be updated soon on homepage as well as in the phyaat library
+#### Contents are being updated on the webpage continuously, please check there for updates
 
 ______________________________________
 
