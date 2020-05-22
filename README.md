@@ -26,7 +26,6 @@
 
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/phyaat?style=social)
 
------
 
 -----
 ## Table of contents
