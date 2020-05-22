@@ -4,7 +4,7 @@
 ### **[Project Homepage](https://phyaat.github.io)**
 ### **[PyPi - project](https://pypi.org/project/phyaat/)**
 
-### Links: **[Homepage](https://phyaat.github.io" target="_blank)** | **[Documentation](https://phyaat.readthedocs.io/)** | **[Github](https://github.com/Nikeshbajaj/phyaat)**  |  **[PyPi - project](https://pypi.org/project/phyaat/)** |     _ **Installation:** [pip install phyaat](https://pypi.org/project/phyaat/)
+### Links: **[Homepage](https://phyaat.github.io)** | **[Documentation](https://phyaat.readthedocs.io/)** | **[Github](https://github.com/Nikeshbajaj/phyaat)**  |  **[PyPi - project](https://pypi.org/project/phyaat/)** |     _ **Installation:** [pip install phyaat](https://pypi.org/project/phyaat/)
 -----
 
 [![Documentation Status](https://readthedocs.org/projects/phyaat/badge/?version=latest)](https://phyaat.readthedocs.io/en/latest/?badge=latest)
