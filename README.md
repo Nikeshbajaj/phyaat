@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/images/EEGViz_Raw1.gif" width="500"/>
+<img src="https://github.com/PhyAAt/PhyAAt.github.io/raw/master/assets/images/EEGViz_Raw1.gif" width="500"/>
 </p>
 
 ### Requirement :
