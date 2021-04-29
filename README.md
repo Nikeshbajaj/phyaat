@@ -32,6 +32,7 @@
 - [**Installation**](#installation)
 - [**Getting Started**](#getting-started)
 - [**Examples with Notebooks**](#examples)
+- [**Cite-As**](#cite-as)
 -----
 
 
@@ -70,6 +71,18 @@ For starting check here - **[Getting Started](https://phyaat.github.io/introduct
 #### Contents are being updated on the webpage continuously, please check there for updates
 
 ______________________________________
+
+# Cite As
+```
+@misc{bajaj2020phyaat,
+      title={PhyAAt: Physiology of Auditory Attention to Speech Dataset}, 
+      author={Nikesh Bajaj and Jesús Requena Carrión and Francesco Bellotti},
+      year={2020},
+      eprint={2005.11577},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
+}
+```
 
 # Contacts:
 
